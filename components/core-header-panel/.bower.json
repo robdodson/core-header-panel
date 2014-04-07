@@ -1,0 +1,18 @@
+{
+  "name": "core-header-panel",
+  "private": true,
+  "dependencies": {
+    "core-layout": "Polymer/core-layout#master"
+  },
+  "homepage": "https://github.com/Polymer/core-header-panel",
+  "_release": "17ac56c17b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "17ac56c17bc099129485540f8e877174b1d9e375"
+  },
+  "_source": "git://github.com/Polymer/core-header-panel.git",
+  "_target": "master",
+  "_originalSource": "Polymer/core-header-panel",
+  "_direct": true
+}
